@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CHHCHCHCHCHCHCHCHCUCUJUJUJUJUJUJUJ.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+                Source="dotnet_bot.png"
+                HeightRequest="80"
+                Aspect="AspectFill"
+                SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+                Text="Epoka Lodowcowa 1"
+                FontSize="24" />
+                
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+
+
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout FlexLayout.Basis="Auto">
+                <Image
+     Source="dotnet_bot.png"
+     HeightRequest="80"
+     Aspect="AspectFill"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
+                <VerticalStackLayout>
+                    <Label
+     Text="Epoka Lodowcowa 1"
+     FontSize="24" />
+
+                    <Label Text="dramat/tragedia" FontAttributes="Italic" FontSize="16"  />
+                </VerticalStackLayout>
+
+                <Label Text="15:00" Padding="20" Margin="25" BackgroundColor="Aqua" />
+                <Label Text="17:00"  Padding="20" Margin="25" BackgroundColor="Aqua"/>
+                <Button Text="kup bilet" Clicked="kupBilet"  Padding="20" Margin="25"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout>
+                <Label x:Name="Koszyk" Text=""/>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
